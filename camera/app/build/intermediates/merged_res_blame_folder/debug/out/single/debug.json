@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\lyh\\opengrok\\source\\camera\\cameraDevelopment\\Camera2Basic\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\lyh\\opengrok\\source\\camera\\cameraDevelopment\\Camera2Basic\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\lyh\\opengrok\\source\\camera\\cameraDevelopment\\Camera2Basic\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\lyh\\opengrok\\source\\camera\\cameraDevelopment\\Camera2Basic\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\lyh\\opengrok\\source\\camera\\cameraDevelopment\\Camera2Basic\\app\\build\\intermediates\\merged_res\\debug\\layout-land_fragment_camera.xml.flat",
+        "source": "D:\\lyh\\opengrok\\source\\camera\\cameraDevelopment\\Camera2Basic\\app\\src\\main\\res\\layout-land\\fragment_camera.xml"
+    },
+    {
+        "merged": "D:\\lyh\\opengrok\\source\\camera\\cameraDevelopment\\Camera2Basic\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\lyh\\opengrok\\source\\camera\\cameraDevelopment\\Camera2Basic\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\lyh\\opengrok\\source\\camera\\cameraDevelopment\\Camera2Basic\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\lyh\\opengrok\\source\\camera\\cameraDevelopment\\Camera2Basic\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\lyh\\opengrok\\source\\camera\\cameraDevelopment\\Camera2Basic\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_photo.xml.flat",
+        "source": "D:\\lyh\\opengrok\\source\\camera\\cameraDevelopment\\Camera2Basic\\app\\src\\main\\res\\drawable\\ic_photo.xml"
+    },
+    {
+        "merged": "D:\\lyh\\opengrok\\source\\camera\\cameraDevelopment\\Camera2Basic\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_camera.xml.flat",
+        "source": "D:\\lyh\\opengrok\\source\\camera\\cameraDevelopment\\Camera2Basic\\app\\src\\main\\res\\layout\\fragment_camera.xml"
+    },
+    {
+        "merged": "D:\\lyh\\opengrok\\source\\camera\\cameraDevelopment\\Camera2Basic\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_camera.xml.flat",
+        "source": "D:\\lyh\\opengrok\\source\\camera\\cameraDevelopment\\Camera2Basic\\app\\src\\main\\res\\layout\\activity_camera.xml"
+    },
+    {
+        "merged": "D:\\lyh\\opengrok\\source\\camera\\cameraDevelopment\\Camera2Basic\\app\\build\\intermediates\\merged_res\\debug\\navigation_nav_graph.xml.flat",
+        "source": "D:\\lyh\\opengrok\\source\\camera\\cameraDevelopment\\Camera2Basic\\app\\src\\main\\res\\navigation\\nav_graph.xml"
+    }
+]
