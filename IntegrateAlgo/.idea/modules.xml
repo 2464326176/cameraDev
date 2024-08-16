@@ -2,15 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Camera2Basic.iml" filepath="$PROJECT_DIR$/.idea/modules/Camera2Basic.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Camera2Basic.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Camera2Basic.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Camera2Basic.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Camera2Basic.app.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Camera2Basic.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Camera2Basic.app.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Camera2Basic.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Camera2Basic.app.unitTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/utils/Camera2Basic.utils.iml" filepath="$PROJECT_DIR$/.idea/modules/utils/Camera2Basic.utils.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/utils/Camera2Basic.utils.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/utils/Camera2Basic.utils.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/utils/Camera2Basic.utils.main.iml" filepath="$PROJECT_DIR$/.idea/modules/utils/Camera2Basic.utils.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/utils/Camera2Basic.utils.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/utils/Camera2Basic.utils.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/IntegrateAlgo.iml" filepath="$PROJECT_DIR$/.idea/modules/IntegrateAlgo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/IntegrateAlgo.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/IntegrateAlgo.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/IntegrateAlgo.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/IntegrateAlgo.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/IntegrateAlgo.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/IntegrateAlgo.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/IntegrateAlgo.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/IntegrateAlgo.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/utils/IntegrateAlgo.utils.iml" filepath="$PROJECT_DIR$/.idea/modules/utils/IntegrateAlgo.utils.iml" />
     </modules>
   </component>
 </project>
